@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+*:not(ul):not(ol) {
+    padding: 0;
+}
+
+:root {
+    --main-color: rgb(5, 143, 249);
+    --main-color-light: #B5DDFF;
+    --secondary-color: #9792E4;
+    --main-space-size: 20px;
+
+}
